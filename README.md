@@ -88,6 +88,8 @@ Do you like ThinkVim? keep it alive by [donating funds](https://salt.bountysourc
 | Wechat                                                                                                          | AliPay                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | ![wechat](https://user-images.githubusercontent.com/41671631/84404718-c8312a00-ac39-11ea-90d7-ee679fbb3705.png) | ![ali](https://user-images.githubusercontent.com/41671631/84403276-1a714b80-ac38-11ea-8607-8492df84e516.png) |
+=======
+<img src="https://user-images.githubusercontent.com/41671631/79724460-287eac00-831a-11ea-8149-f5a68f19411a.png" width="40%"  height="40%">
 
 ## Credits & Contribution
 
