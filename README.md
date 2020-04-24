@@ -36,6 +36,7 @@ src="https://user-images.githubusercontent.com/41671631/84489554-71c4f980-acd4-1
   [dashboard-nvim](https://github.com/hardcoreplayers/dashboard-nvim)
 - Interactive shell installation language support
 
+
 ## Installation
 
 ```console
